@@ -9,17 +9,17 @@
 > deep learning systems are robust to noisy data but difficult to interpret and require large training data.
 > symbolic systems are easier to interpret and less training data but struggle with noisy data.
 
-![compare table](alphaILP_compare_table.png)
+![compare table](./img/alphaILP_compare_table.png)
 
 ∂ILP  `(continuous representations of rules are learned through BP against likelihood objectivew)` searches through the space of programs using gradient descent. if the outputs of the program conflict with the desired outputs from the reference data, the system revises the program to better match the data.
 
-![algorithm_structure](algorithm_structure.png)
+![algorithm_structure](./img/algorithm_structure.png)
 
 **extensional predicates VS intensional predicates**
 **Satisfiability Problem**
 
 ###### training loop
-![training loop](training_loop.png)
+![training loop](./img/training_loop.png)
 
 #### Contribution
 
