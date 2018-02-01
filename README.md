@@ -6,4 +6,4 @@
 
 - [Poincare Embedding for Learning Hierarchical Representation](https://github.com/Bayesian-Razor/papernotes/blob/master/notes/poincare_embedding.md)
 
-- [Learning Explanatory Rules from Noisy Data](learning_explanatory_rules_from_noisy_data/learning_explanatory_rules_from_noisy_data.md)
+- [Learning Explanatory Rules from Noisy Data](./notes/Learning%20explanatory%20rules%20from%20noisy%20data.md)
