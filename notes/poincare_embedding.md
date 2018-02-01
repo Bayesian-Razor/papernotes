@@ -4,10 +4,10 @@
 
 [github](https://github.com/facebookresearch/poincare-embeddings)
 
-####背景
+#### 背景
 常用的embedding方法是利用两个item的欧式距离来表示两者的相似性。且无法呈现出层次性。
 
-####文章特点
+#### 文章特点
 这篇论文主要利用了<mark>hyperbolic space</mark>来进行embedding操作。使用Poincare ball model进行表达（Riemanniam manifold structure）。
 
 相关的距离公式参考原文。
