@@ -11,4 +11,4 @@
 
 ## 2018-02
 
-- [On the Convergence of Adam and Beyond](./notes/conv_of_adam.md)[[arxiv](https://openreview.net/pdf?id=ryQu7f-RZ)]
+- [On the Convergence of Adam and Beyond](./notes/conv_of_adam.md)[[openview](https://openreview.net/pdf?id=ryQu7f-RZ)]
