@@ -7,3 +7,8 @@
 - [Poincare Embedding for Learning Hierarchical Representation](./notes/poincare_embedding.md)
 
 - [Learning Explanatory Rules from Noisy Data](./notes/Learning%20explanatory%20rules%20from%20noisy%20data.md)
+
+
+## 2018-02
+
+- [On the Convergence of Adam and Beyond](./notes/conv_of_adam.md)[[arxiv](https://openreview.net/pdf?id=ryQu7f-RZ)]
