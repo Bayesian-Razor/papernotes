@@ -12,3 +12,4 @@
 ## 2018-02
 
 - [On the Convergence of Adam and Beyond](./notes/conv_of_adam.md)[[openview](https://openreview.net/pdf?id=ryQu7f-RZ)]
+- [Mask GAN: Better Text Generation via Filling In The ___](./notes/MaskGAN_textGeneration.md)
