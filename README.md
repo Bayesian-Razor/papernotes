@@ -15,4 +15,6 @@
 - [Mask GAN: Better Text Generation via Filling In The ___](./notes/MaskGAN_textGeneration.md)
 
 ## 2018-07
+
 - [Neural Belief Tracker: Data-Driven Dialogue State Tracking](./notes/Neural Belief Tracker/Neural Belief Tracker- Data-Driven Dialogue State Tracking.md)
+- [Universal Language Model Fine-tuning for Text Classification](./notes/Universal Language Model Fine-tuning for Text Classification.md)
