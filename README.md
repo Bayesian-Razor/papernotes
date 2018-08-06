@@ -17,4 +17,4 @@
 ## 2018-07
 
 - [Neural Belief Tracker: Data-Driven Dialogue State Tracking](./notes/Neural Belief Tracker/Neural Belief Tracker- Data-Driven Dialogue State Tracking.md)
-- [Universal Language Model Fine-tuning for Text Classification](./notes/Universal Language Model Fine-tuning for Text Classification.md)
+- [Universal Language Model Fine-tuning for Text Classification](./notes/Universal_Language_Model_Fine-tuning_for_Text_Classification.md)
