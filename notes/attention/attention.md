@@ -126,7 +126,7 @@ Attention is produced by dot-product with Q, K and V, scale it and softmax.
 
 ## Penality
 
-+ [KL and Unit diversity](../A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING/A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING.md)
++ [KL and Unit diversity](../A%20STRUCTURED%20SELF-ATTENTIVE%20SENTENCE%20EMBEDDING/A%20STRUCTURED%20SELF-ATTENTIVE%20SENTENCE%20EMBEDDING.md)
 
 ## Even More
 + Hierarchical Attention
